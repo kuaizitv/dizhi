@@ -1,16 +1,17 @@
 筷子视频-美剧在线平台
 
 主站域名：
-
-https://www.kuaizi.tv
-
 https://www.kuaizi.cc
 
+https://www.akuaizi.tv
+
 备用域名：
+https://www.kuaizi.tv
 
 https://www.kuaizi.org
 
 https://www.akuaizi.com
+
 
 
 网址发布：https://www.akuaizi.vip
